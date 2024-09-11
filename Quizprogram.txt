@@ -1,0 +1,8 @@
+1. Asking a quiz 
+2. Giving a answer (option)
+	[that answer should store in variable]
+3. After completed quiz. The answer should check the condition to the correct answer
+    ex:var=="answer_1"
+4. If the condition is true, the answer append to list
+5. Finally find the len of list
+6. Show the result. How many answer is correct in numerical form.
